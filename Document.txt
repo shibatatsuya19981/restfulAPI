@@ -1,2 +1,8 @@
 - Build a web service restful API using .netcore 3.0
 - Test API by Postman -> Install Postman
+
+Staging:
+Step: 
+- Create source structure .netcore web API 
+- Make a restful api HTTP method: Post,put,delete,get
+
