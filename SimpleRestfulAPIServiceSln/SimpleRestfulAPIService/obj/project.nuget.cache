@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uk4MosnTSJ+PWkOqQBFbNYJknLmHoRVqTkQ3t5gKeqW1zQS9VY5nziwJNuo20+2BUDr4GmjKDHAvbBfAnX0OtA==",
+  "success": true,
+  "projectFilePath": "E:\\API_Projects\\Restful_API_NetCore\\restfulAPI\\SimpleRestfulAPIServiceSln\\SimpleRestfulAPIService\\SimpleRestfulAPIService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
