@@ -1,0 +1,2 @@
+- Build a web service restful API using .netcore 3.0
+- Test API by Postman -> Install Postman
