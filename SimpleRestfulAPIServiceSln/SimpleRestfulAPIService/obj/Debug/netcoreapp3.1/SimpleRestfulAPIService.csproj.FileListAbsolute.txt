@@ -21,3 +21,27 @@ E:\API_Projects\Restful_API_NetCore\restfulAPI\SimpleRestfulAPIServiceSln\Simple
 E:\API_Projects\Restful_API_NetCore\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\SimpleRestfulAPIService.genruntimeconfig.cache
 E:\API_Projects\Restful_API_NetCore\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 E:\API_Projects\Restful_API_NetCore\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\SimpleRestfulAPIService.csproj.CopyComplete
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\bin\Debug\netcoreapp3.1\SimpleRestfulAPIService.exe
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\bin\Debug\netcoreapp3.1\MOCK_DATA.json
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\bin\Debug\netcoreapp3.1\SimpleRestfulAPIService.deps.json
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\bin\Debug\netcoreapp3.1\SimpleRestfulAPIService.runtimeconfig.json
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\bin\Debug\netcoreapp3.1\SimpleRestfulAPIService.runtimeconfig.dev.json
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\bin\Debug\netcoreapp3.1\SimpleRestfulAPIService.dll
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\bin\Debug\netcoreapp3.1\SimpleRestfulAPIService.pdb
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\SimpleRestfulAPIService.csproj.AssemblyReference.cache
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\SimpleRestfulAPIService.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\SimpleRestfulAPIService.AssemblyInfoInputs.cache
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\SimpleRestfulAPIService.AssemblyInfo.cs
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\SimpleRestfulAPIService.csproj.CoreCompileInputs.cache
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\SimpleRestfulAPIService.MvcApplicationPartsAssemblyInfo.cache
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\staticwebassets\SimpleRestfulAPIService.StaticWebAssets.Manifest.cache
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\staticwebassets\SimpleRestfulAPIService.StaticWebAssets.xml
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\scopedcss\bundle\SimpleRestfulAPIService.styles.css
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\SimpleRestfulAPIService.RazorTargetAssemblyInfo.cache
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\SimpleRestfulAPIService.csproj.CopyComplete
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\SimpleRestfulAPIService.dll
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\SimpleRestfulAPIService.pdb
+D:\My Project\restfulAPI\SimpleRestfulAPIServiceSln\SimpleRestfulAPIService\obj\Debug\netcoreapp3.1\SimpleRestfulAPIService.genruntimeconfig.cache
