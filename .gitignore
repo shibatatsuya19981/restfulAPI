@@ -3,3 +3,5 @@
 ################################################################################
 
 /SimpleRestfulAPIServiceSln/.vs/SimpleRestfulAPIServiceSln/DesignTimeBuild/.dtbcache.v2
+/.vs
+/SimpleRestfulAPIServiceSln/SimpleRestfulAPIService/obj
