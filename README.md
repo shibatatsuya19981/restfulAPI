@@ -1,2 +1,2 @@
 # restfulAPI
-Building RESTful Web Services with.NET Core
+Building a simple RESTful Web Services with.NET Core
